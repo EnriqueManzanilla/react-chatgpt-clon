@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-chatgpt-clon/build/static/css/main.a36e9670.css",
+    "main.js": "/react-chatgpt-clon/build/static/js/main.bb3e6674.js",
+    "index.html": "/react-chatgpt-clon/build/index.html",
+    "main.a36e9670.css.map": "/react-chatgpt-clon/build/static/css/main.a36e9670.css.map",
+    "main.bb3e6674.js.map": "/react-chatgpt-clon/build/static/js/main.bb3e6674.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a36e9670.css",
+    "static/js/main.bb3e6674.js"
+  ]
+}
